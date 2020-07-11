@@ -1,0 +1,213 @@
+ HEX Code, German, English Name
+#BEBD7F,Grünbeige,Green beige
+#C2B078,Beige,Beige
+#C6A664,Sandgelb,Sand yellow
+#E5BE01,Signalgelb,Signal yellow
+#CDA434,Goldgelb,Golden yellow
+#A98307,Honiggelb,Honey yellow
+#E4A010,Maisgelb,Maize yellow
+#DC9D00,Narzissengelb,Daffodil yellow
+#8A6642,Braunbeige,Brown beige
+#C7B446,Zitronengelb,Lemon yellow
+#EAE6CA,Perlweiß,Oyster white
+#E1CC4F,Elfenbein,Ivory
+#E6D690,Hellelfenbein,Light ivory
+#EDFF21,Schwefelgelb,Sulfur yellow
+#F5D033,Safrangelb,Saffron yellow
+#F8F32B,Zinkgelb,Zinc yellow
+#9E9764,Graubeige,Grey beige
+#999950,Olivgelb,Olive yellow
+#FAD201,Verkehrsgelb,Traffic yellow
+#AEA04B,Ockergelb,Ochre yellow
+#FFFF00,Leuchtgelb,Luminous yellow
+#9D9101,Currygelb,Curry
+#F4A900,Melonengelb,Melon yellow
+#D6AE01,Ginstergelb,Broom yellow
+#F3A505,Dahliengelb,Dahlia yellow
+#EFA94A,Pastellgelb,Pastel yellow
+#6A5D4D,Perlbeige,Pearl beige
+#705335,Perlgold,Pearl gold
+#F39F18,Sonnengelb,Sun yellow
+#ED760E,Gelborange,Yellow orange
+#C93C20,Rotorange,Red orange
+#CB2821,Blutorange,Vermilion
+#FF7514,Pastellorange,Pastel orange
+#F44611,Reinorange,Pure orange
+#FF2301,Leuchtorange,Luminous orange
+#FFA420,Leuchthellorange,Luminous bright orange
+#F75E25,Hellrotorange,Bright red orange
+#F54021,Verkehrsorange,Traffic orange
+#D84B20,Signalorange,Signal orange
+#EC7C26,Tieforange,Deep orange
+#E55137,Lachsorange,Salmon range
+#C35831,Perlorange,Pearl orange
+#AF2B1E,Feuerrot,Flame red
+#A52019,Signalrot,Signal red
+#A2231D,Karminrot,Carmine red
+#9B111E,Rubinrot,Ruby red
+#75151E,Purpurrot,Purple red
+#5E2129,Weinrot,Wine red
+#412227,Schwarzrot,Black red
+#642424,Oxidrot,Oxide red
+#781F19,Braunrot,Brown red
+#C1876B,Beigerot,Beige red
+#A12312,Tomatenrot,Tomato red
+#D36E70,Altrosa,Antique pink
+#EA899A,Hellrosa,Light pink
+#B32821,Korallenrot,Coral red
+#E63244,Rosé,Rose
+#D53032,Erdbeerrot,Strawberry red
+#CC0605,Verkehrsrot,Traffic red
+#D95030,Lachsrot,Salmon pink
+#F80000,Leuchtrot,Luminous red
+#FE0000,Leuchthellrot,Luminous bright red
+#C51D34,Himbeerrot,Raspberry red
+#CB3234,Reinrot,Pure  red
+#B32428,Orientrot,Orient red
+#721422,Perlrubinrot,Pearl ruby red
+#B44C43,Perlrosa,Pearl pink
+#6D3F5B,Rotlila,Red lilac
+#922B3E,Rotviolett,Red violet
+#DE4C8A,Erikaviolett,Heather violet
+#641C34,Bordeauxviolett,Claret violet
+#6C4675,Blaulila,Blue lilac
+#A03472,Verkehrspurpur,Traffic purple
+#4A192C,Purpurviolett,Purple violet
+#924E7D,Signalviolett,Signal violet
+#A18594,Pastellviolett,Pastel violet
+#CF3476,Telemagenta,Telemagenta
+#8673A1,Perlviolett,Pearl violet
+#6C6874,Perlbrombeer,Pearl black berry
+#354D73,Violettblau,Violet blue
+#1F3438,Grünblau,Green blue
+#20214F,Ultramarinblau,Ultramarine blue
+#1D1E33,Saphirblau,Saphire blue
+#18171C,Schwarzblau,Black blue
+#1E2460,Signalblau,Signal blue
+#3E5F8A,Brillantblau,Brillant blue
+#26252D,Graublau,Grey blue
+#025669,Azurblau,Azure blue
+#0E294B,Enzianblau,Gentian blue
+#231A24,Stahlblau,Steel blue
+#3B83BD,Lichtblau,Light blue
+#1E213D,Kobaltblau,Cobalt blue
+#606E8C,Taubenblau,Pigeon blue
+#2271B3,Himmelblau,Sky blue
+#063971,Verkehrsblau,Traffic blue
+#3F888F,Türkisblau,Turquoise blue
+#1B5583,Capriblau,Capri blue
+#1D334A,Ozeanblau,Ocean blue
+#256D7B,Wasserblau,Water blue
+#252850,Nachtblau,Night blue
+#49678D,Fernblau,Distant blue
+#5D9B9B,Pastellblau,Pastel blue
+#2A6478,Perlenzian,Pearl gentian blue
+#102C54,Perlnachtblau,Pearl night blue
+#316650,Patinagrün,Patina green
+#287233,Smaragdgrün,Emerald green
+#2D572C,Laubgrün,Leaf green
+#424632,Olivgrün,Olive green
+#1F3A3D,Blaugrün,Blue green
+#2F4538,Moosgrün,Moss green
+#3E3B32,Grauoliv,Grey olive
+#343B29,Flaschengrün,Bottle green
+#39352A,Braungrün,Brown green
+#31372B,Tannengrün,Fir green
+#35682D,Grasgrün,Grass green
+#587246,Resedagrün,Reseda green
+#343E40,Schwarzgrün,Black green
+#6C7156,Schilfgrün,Reed green
+#47402E,Gelboliv,Yellow olive
+#3B3C36,Schwarzoliv,Black olive
+#1E5945,Türkisgrün,Turquoise green
+#4C9141,Maigrün,May green
+#57A639,Gelbgrün,Yellow green
+#BDECB6,Weißgrün,Pastel green
+#2E3A23,Chromoxidgrün,Chrome green
+#89AC76,Blassgrün,Pale green
+#25221B,Braunoliv,Olive drab
+#308446,Verkehrsgrün,Traffic green
+#3D642D,Farngrün,Fern green
+#015D52,Opalgrün,Opal green
+#84C3BE,Lichtgrün,Light green
+#2C5545,Kieferngrün,Pine green
+#20603D,Minzgrün,Mint green
+#317F43,Signalgrün,Signal green
+#497E76,Minttürkis,Mint turquoise
+#7FB5B5,Pastelltürkis,Pastel turquoise
+#1C542D,Perlgrün,Pearl green
+#193737,Perlopalgrün,Pearl opal green
+#008F39,Reingrün,Pure green
+#00BB2D,Leuchtgrün,Luminous green
+#78858B,Fehgrau,Squirrel grey
+#8A9597,Silbergrau,Silver grey
+#7E7B52,Olivgrau,Olive grey
+#6C7059,Moosgrau,Moss grey
+#969992,Signalgrau,Signal grey
+#646B63,Mausgrau,Mouse grey
+#6D6552,Beigegrau,Beige grey
+#6A5F31,Khakigrau,Khaki grey
+#4D5645,Grüngrau,Green grey
+#4C514A,Zeltgrau,Tarpaulin grey
+#434B4D,Eisengrau,Iron grey
+#4E5754,Basaltgrau,Basalt grey
+#464531,Braungrau,Brown grey
+#434750,Schiefergrau,Slate grey
+#293133,Anthrazitgrau,Anthracite grey
+#23282B,Schwarzgrau,Black grey
+#332F2C,Umbragrau,Umbra grey
+#686C5E,Betongrau,Concrete grey
+#474A51,Graphitgrau,Graphite grey
+#2F353B,Granitgrau,Granite grey
+#8B8C7A,Steingrau,Stone grey
+#474B4E,Blaugrau,Blue grey
+#B8B799,Kieselgrau,Pebble grey
+#7D8471,Zementgrau,Cement grey
+#8F8B66,Gelbgrau,Yellow grey
+#D7D7D7,Lichtgrau,Light grey
+#7F7679,Platingrau,Platinum grey
+#7D7F7D,Staubgrau,Dusty grey
+#B5B8B1,Achatgrau,Agate grey
+#6C6960,Quarzgrau,Quartz grey
+#9DA1AA,Fenstergrau,Window grey
+#8D948D,Verkehrsgrau A,Traffic grey A
+#4E5452,Verkehrsgrau B,Traffic grey B
+#CAC4B0,Seidengrau,Silk grey
+#909090,Telegrau 1,Telegrey 1
+#82898F,Telegrau 2,Telegrey 2
+#D0D0D0,Telegrau 4,Telegrey 4
+#898176,Perlmausgrau,Pearl mouse grey
+#826C34,Grünbraun,Green brown
+#955F20,Ockerbraun,Ochre brown
+#6C3B2A,Signalbraun,Signal brown
+#734222,Lehmbraun,Clay brown
+#8E402A,Kupferbraun,Copper brown
+#59351F,Rehbraun,Fawn brown
+#6F4F28,Olivbraun,Olive brown
+#5B3A29,Nussbraun,Nut brown
+#592321,Rotbraun,Red brown
+#382C1E,Sepiabraun,Sepia brown
+#633A34,Kastanienbraun,Chestnut brown
+#4C2F27,Mahagonibraun,Mahogany brown
+#45322E,Schokoladen-braun,Chocolate brown
+#403A3A,Graubraun,Grey brown
+#212121,Schwarzbraun,Black brown
+#A65E2E,Orangebraun,Orange brown
+#79553D,Beigebraun,Beige brown
+#755C48,Blassbraun,Pale brown
+#4E3B31,Terrabraun,Terra brown
+#763C28,Perlkupfer,Pearl copper
+#FDF4E3,Cremeweiß,Cream
+#E7EBDA,Grauweiß,Grey white
+#F4F4F4,Signalweiß,Signal white
+#282828,Signalschwarz,Signal black
+#0A0A0A,Tiefschwarz,Jet black
+#A5A5A5,Weißaluminium,White aluminium
+#8F8F8F,Graualuminium,Grey aluminium
+#FFFFFF,Reinweiß,Pure white
+#1C1C1C,Graphitschwarz,Graphite black
+#F6F6F6,Verkehrsweiß,Traffic white
+#1E1E1E,Verkehrs-schwarz,Traffic black
+#D7D7D7,Papyrusweiß,Papyrus white
+#9C9C9C,Perlhellgrau,Pearl light grey
+#828282,Perldunkelgrau,Pearl dark grey

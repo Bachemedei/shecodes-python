@@ -18,7 +18,7 @@ mailing_list = [
 for pet in mailing_list:
     print(f"{pet[0]}: {pet[1]}")
 
-# Question 3
+#  Question 3
 names = []
 name = input("Enter a name ")
 while len(names) < 3 :
@@ -51,7 +51,7 @@ print("====Izzy's Food Emporium====")
 for item in groceries:
     print(f"{item[0]:<20} ${item[1]:.2f}")
 print("============================")
-print(f"{total:>26}")
+print(f"{total:>27}")
 
 
 
