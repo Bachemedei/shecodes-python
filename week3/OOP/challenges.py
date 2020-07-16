@@ -56,7 +56,7 @@ class Rectangle:
 
 class Vehicle:
     def __init__(self, make, model, colour, seats, max_speed, 
-    current_speed, distance_travelled, fuel_tank_capacity
+    current_speed, dist_travelled_since_refill, fuel_tank_capacity
     ):
         self.make = make
         self.model = model
@@ -64,7 +64,7 @@ class Vehicle:
         self.seats = seats
         self.max_speed = max_speed
         self.current_speed = current_speed
-        self.distance_travelled = distance_travelled
+        self.dist_travelled_since_refill = dist_travelled_since_refill
         self.fuel_tank_capacity = fuel_tank_capacity
     
     def __str__(self):
@@ -74,20 +74,20 @@ class Vehicle:
     def rev_engine(self):
         if self.current_speed == 0:
             return "Silence..."
-        else:
-            return "VRRRMMMMMM!"
+        if self.current_speed < 80:
+            return "Vrrmm"
+        return "VRRRMMMMMM!"
     
     def fuel_level(self):
-        fuel_consumption = 11.5
-        fuel_remaining = round(self.fuel_tank_capacity-(self.distance_travelled/fuel_consumption))
+        fuel_consumption = 11.5 #km/L
+        fuel_remaining = round(self.fuel_tank_capacity-(self.dist_travelled_since_refill/fuel_consumption))
         tank_level = round(100*(fuel_remaining/self.fuel_tank_capacity))
-        if tank_level > 10:
+        if tank_level > 10: #10%
             return f"Fuel tank {tank_level}% full"
-        else:
-            return f"Refuel now! Only {tank_level}% left!"
+        return f"Refuel now! Only {tank_level}% left!"
     
     def refill_tank(self):
-        self.distance_travelled = 0
+        self.dist_travelled_since_refill = 0
 
 
 car = Vehicle("Fiat", "500c", "Gunmetal Grey", 4, 120, 100, 390, 35)
